@@ -9,13 +9,13 @@
 
 ## Webpages:
 **localhost:4995**
-/home
-/login/twitter
-/logout
-/search
+* /home
+* /login/twitter
+* /logout
+* /search
 
 ## Languages and Tools used:
-Python
-Flask
-PostgreSQL
-Bootstrap
+* Python
+* Flask
+* PostgreSQL
+* Bootstrap
